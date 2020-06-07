@@ -1,6 +1,6 @@
 name: "Hello Actions"
 description: "Greet someone"
-author "octoact@github.com"
+author: "octoact@github.com"
 
 inputs:
   MY_NAME:
